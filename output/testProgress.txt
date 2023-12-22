@@ -1,0 +1,59 @@
+2023-11-28 12:51:55,513 Ig	Logout_1				 Steps file not found: C:\Zeen\sampleTests\Logout_1\Logout_1.csv 
+2023-11-28 12:51:55,514 Ig	QueryOptimization				 Steps file not found: C:\Zeen\sampleTests\QueryOptimization\QueryOptimization.csv 
+2023-11-28 12:52:01,414 EX     5768ms 2,2    Navigated to         https://practicetestautomation.com/practice-test-login/ 	 
+2023-11-28 12:52:02,547 EX      101ms 2,2    Entered text in      username 	 
+2023-11-28 12:52:03,572 EX       22ms 2,3    Entered text in      password 	 
+2023-11-28 12:52:04,808 EX      225ms 2,4    Clicked              submit 	 
+2023-11-28 12:52:05,848 EX       38ms 2,5    Verified text in     error 	 
+2023-11-28 12:52:06,886 EX       22ms 3,2    Entered text in      username 	 
+2023-11-28 12:52:07,925 EX       28ms 3,3    Entered text in      password 	 
+2023-11-28 12:52:09,165 EX      227ms 3,4    Clicked              submit 	 
+2023-11-28 12:52:10,187 EX       11ms 3,5    Verified text in     error 	 
+2023-11-28 12:52:11,226 EX       31ms 4,2    Entered text in      username 	 
+2023-11-28 12:52:12,269 EX       34ms 4,3    Entered text in      password 	 
+2023-11-28 12:52:13,488 EX      217ms 4,4    Clicked              submit 	 
+2023-11-28 12:52:14,516 EX       19ms 4,5    Verified text in     error 	 
+2023-11-28 12:52:15,575 EX       45ms 5,2    Entered text in      username 	 
+2023-11-28 12:52:16,611 EX       26ms 5,3    Entered text in      password 	 
+2023-11-28 12:52:17,842 EX      222ms 5,4    Clicked              submit 	 
+2023-11-28 12:52:18,858 EX       14ms 5,5    Verified text in     error 	 
+2023-11-28 12:52:19,914 EX       45ms 6,2    Entered text in      username 	 
+2023-11-28 12:52:20,946 EX       21ms 6,3    Entered text in      password 	 
+2023-11-28 12:52:22,179 EX      229ms 6,4    Clicked              submit 	 
+2023-11-28 12:52:23,195 EX       14ms 6,5    Verified text in     error 	 
+2023-11-28 12:52:24,231 EX       25ms 7,2    Entered text in      username 	 
+2023-11-28 12:52:25,269 EX       27ms 7,3    Entered text in      password 	 
+2023-11-28 12:52:26,503 EX      224ms 7,4    Clicked              submit 	 
+2023-11-28 12:52:27,528 EX       11ms 7,5    Verified text in     error 	 
+2023-11-28 12:52:28,572 EX       30ms 8,2    Entered text in      username 	 
+2023-11-28 12:52:29,612 EX       28ms 8,3    Entered text in      password 	 
+2023-11-28 12:52:30,840 EX      219ms 8,4    Clicked              submit 	 
+2023-11-28 12:52:31,863 EX       16ms 8,5    Verified text in     error 	 
+2023-11-28 12:52:32,911 EX       45ms 9,2    Entered text in      username 	 
+2023-11-28 12:52:33,948 EX       29ms 9,3    Entered text in      password 	 
+2023-11-28 12:52:35,192 EX      234ms 9,4    Clicked              submit 	 
+2023-11-28 12:52:36,209 EX       11ms 9,5    Verified text in     error 	 
+2023-11-28 12:52:37,242 EX       31ms 10,2   Entered text in      username 	 
+2023-11-28 12:52:38,274 EX       25ms 10,3   Entered text in      password 	 
+2023-11-28 12:52:39,502 EX      222ms 10,4   Clicked              submit 	 
+2023-11-28 12:52:40,531 EX       14ms 10,5   Verified text in     error 	 
+2023-11-28 12:52:41,567 EX       28ms 11,2   Entered text in      username 	 
+2023-11-28 12:52:42,600 EX       25ms 11,3   Entered text in      password 	 
+2023-11-28 12:52:43,843 EX      235ms 11,4   Clicked              submit 	 
+2023-11-28 12:52:44,864 EX       16ms 11,5   Verified text in     error 	 
+2023-11-28 12:52:45,896 EX       25ms 12,2   Entered text in      username 	 
+2023-11-28 12:52:46,933 EX       34ms 12,3   Entered text in      password 	 
+2023-11-28 12:52:48,171 EX      234ms 12,4   Clicked              submit 	 
+2023-11-28 12:52:49,201 EX       14ms 12,5   Verified text in     error 	 
+2023-11-28 12:52:50,232 EX       23ms 13,2   Entered text in      username 	 
+2023-11-28 12:52:51,267 EX       23ms 13,3   Entered text in      password 	 
+2023-11-28 12:52:52,501 EX      232ms 13,4   Clicked              submit 	 
+2023-11-28 12:52:53,519 EX       13ms 13,5   Verified text in     error 	 
+2023-11-28 12:52:54,572 EX       44ms 14,2   Entered text in      username 	 
+2023-11-28 12:52:55,604 EX       17ms 14,3   Entered text in      password 	 
+2023-11-28 12:52:56,841 EX      233ms 14,4   Clicked              submit 	 
+2023-11-28 12:52:57,851 EX        6ms 14,5   Verified text in     error 	 
+2023-11-28 12:52:58,974 EX      107ms 15,2   Entered text in      username 	 
+2023-11-28 12:53:00,010 EX       28ms 15,3   Entered text in      password 	 
+2023-11-28 12:53:01,244 EX      229ms 15,4   Clicked              submit 	 
+2023-11-28 12:53:02,265 ER      229ms 15,5   Verified text in     error 	Expected text "Your username or password is invalid!" actual "Your password is invalid!" 
